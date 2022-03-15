@@ -87,7 +87,7 @@ form #login:focus:placeholder-shown ,#password:focus:placeholder-shown{
 }
 
 .menu_list li a:hover{
-    color: dimgrey;
+    color: rgb(170, 170, 170);
     transition: 0.1s ease-in;
     
 }
